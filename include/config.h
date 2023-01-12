@@ -676,7 +676,7 @@
 #undef HAVE_QUICKTIME_IMAGECOMPRESSION_H
 
 /* Define to 1 if you have the `readlink' function. */
-#undef HAVE_READLINK
+#define HAVE_READLINK
 
 /* Define to 1 if you have the `remainder' function. */
 #undef HAVE_REMAINDER
